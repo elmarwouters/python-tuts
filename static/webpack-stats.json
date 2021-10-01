@@ -1,0 +1,14 @@
+{
+  "status": "done",
+  "assets": {
+    "main-633e6946857fc7385648.ts": {
+      "name": "main-633e6946857fc7385648.ts",
+      "path": "/Users/Elmar/Projecten/Wouters Media/python-tuts/static/dist/main-633e6946857fc7385648.ts"
+    }
+  },
+  "chunks": {
+    "main": [
+      "main-633e6946857fc7385648.ts"
+    ]
+  }
+}
